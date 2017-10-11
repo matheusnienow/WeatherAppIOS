@@ -301,6 +301,7 @@
 				83621DB31F865E6100C401AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
